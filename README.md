@@ -12,3 +12,4 @@ Install Selenium, which is used to control the Chrome browser and perform automa
 
 ```bash
 pip install selenium
+
